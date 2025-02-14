@@ -1,6 +1,5 @@
 # GitHub Profile Design
-
-![GitHub Profile Banner](https://your-banner-image-url.com)
+(<a href="https://ibb.co/fG0djGst"><img src="https://i.ibb.co/HpgT5pjY/github-header-image.png" alt="github-header-image" border="0"></a>)
 
 ## 🚀 Overview
 This repository contains my custom GitHub profile design, including an interactive and visually appealing README to showcase my skills, projects, and contributions.
@@ -26,6 +25,22 @@ This repository contains my custom GitHub profile design, including an interacti
 ## 📈 GitHub Stats
 ![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishav161&show_icons=true&theme=radical)
 
+## 🚀 Projects
+### 1. Tripease - Travel & Tourism Website
+A full-stack MERN travel website integrating payment and booking systems.
+- **Tech Stack:** React, Node.js, PostgreSQL, Express
+- [GitHub Repository](https://github.com/rishav161/tripease)
+
+### 2. Pokédex
+A React-based Pokédex application that fetches and displays Pokémon details using an external API.
+- **Tech Stack:** React, Next.js, TypeScript
+- [GitHub Repository](https://github.com/rishav161/pokedex)
+
+### 3. Diesel Clone App
+A clone of the Diesel e-commerce platform, showcasing UI/UX and backend features.
+- **Tech Stack:** React, Node.js, MongoDB, Express
+- [GitHub Repository](https://github.com/rishav161/diesel-clone)
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-jaiswal-55141824a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161)
@@ -37,5 +52,3 @@ This repository contains my custom GitHub profile design, including an interacti
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-⭐ Feel free to fork and customize this design for your own GitHub profile!
