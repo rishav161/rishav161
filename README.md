@@ -29,7 +29,7 @@ This repository contains my custom GitHub profile design, including an interacti
 ### 1. Tripease - Travel & Tourism Website
 A full-stack MERN travel website integrating payment and booking systems.
 - **Tech Stack:** React, Node.js, PostgreSQL, Express
-- [GitHub Repository](https://github.com/rishav161/tripease)
+- [GitHub Repository](https://github.com/sudipt-31/Tripease)
 
 ### 2. Pokédex
 A React-based Pokédex application that fetches and displays Pokémon details using an external API.
