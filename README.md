@@ -153,7 +153,7 @@ A modern restaurant website with elegant design and functionality.
   <a href="https://github.com/rishav161">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://react-portfolio-tan-xi.vercel.app/">
+  <a href="https://react-portfolio-yohuoba6p-rishav-jaiswals-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/u/Rishav16/">
