@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** with 6 months of professional experience working on client projects. I specialize in building modern web applications using cutting-edge technologies and best practices.
+I'm a passionate **Software Developer** with 7 months of professional experience working on client projects. I specialize in building modern web applications using cutting-edge technologies and best practices.
 
 ### 🎯 What I Do
 - **Full-Stack Development** with React, Node.js, and modern web technologies
