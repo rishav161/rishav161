@@ -6,23 +6,28 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** with 7 months of professional experience working on client projects. I specialize in building modern web applications using cutting-edge technologies and best practices.
+I'm a passionate **Fullstack Developer** with 8 months of professional experience working on client projects.  
+I specialize in building modern web applications using cutting-edge technologies and best practices.  
 
 ### 🎯 What I Do
-- **Full-Stack Development** with React, Node.js, and modern web technologies
-- **Database Design** and management with MongoDB and PostgreSQL
-- **API Development** and integration
-- **UI/UX Design** with responsive and modern interfaces
-- **Problem Solving** and algorithmic thinking
+- **Full-Stack Development** with React, Node.js, and modern web technologies  
+- **Database Design** and management with MongoDB and PostgreSQL  
+- **API Development** and integration  
+- **UI/UX Design** with responsive and modern interfaces  
+- **Problem Solving** and algorithmic thinking  
+
+---
 
 ## 💼 Professional Experience
 
-### Software Developer (6 months)
-- **Client Project Experience**: Worked on real-world client projects delivering production-ready solutions
-- **Full-Stack Development**: Built complete web applications from frontend to backend
-- **Database Management**: Designed and implemented database schemas
-- **API Integration**: Integrated third-party services and payment gateways
-- **Code Review**: Participated in code reviews and maintained code quality standards
+### Software Developer (8 Months)
+- **Client Project Experience:** Worked on real-world client projects delivering production-ready solutions  
+- **Full-Stack Development:** Built complete web applications from frontend to backend  
+- **Database Management:** Designed and implemented optimized database schemas  
+- **API Integration:** Integrated third-party services and payment gateways  
+- **Code Review:** Participated in code reviews and ensured code quality standards  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +49,6 @@ I'm a passionate **Software Developer** with 7 months of professional experience
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ### Tools & Others 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
@@ -54,6 +58,7 @@ I'm a passionate **Software Developer** with 7 months of professional experience
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
 ## 📊 GitHub Stats
 
@@ -66,89 +71,95 @@ I'm a passionate **Software Developer** with 7 months of professional experience
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav161&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
 
+---
+
 ## 🚀 Featured Projects
 
-### 1. 🌍 Tripease - Travel & Tourism Website
-A full-stack MERN travel website with integrated payment and booking systems.
+### 🌍 **Tripease – Travel & Tourism Website**
+A full-stack MERN travel and tourism website with integrated payment and booking systems.  
 
-**Tech Stack:** React, Node.js, PostgreSQL, Express, Payment Integration
+**Tech Stack:** React, Node.js, PostgreSQL, Express, Payment Integration  
 
-**Key Features:**
-- User authentication and authorization
-- Booking management system
-- Payment gateway integration
-- Responsive design
-- Real-time updates
+**Key Features:**  
+- Secure user authentication and authorization system  
+- Comprehensive booking management system  
+- Seamless payment gateway integration  
+- Fully responsive and modern UI design  
+- Real-time updates for bookings and user activities  
 
 [![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudipt-31/Tripease)
 
 ---
 
-### 2. 🎮 Pokédex Application
-A React-based Pokédex application that fetches and displays Pokémon details using external APIs.
+### 🎮 **Pokédex Application**
+A React-based Pokédex application that fetches and displays detailed Pokémon information using external APIs.  
 
-**Tech Stack:** React, Next.js, TypeScript, External APIs
+**Tech Stack:** React, Next.js, TypeScript, External APIs  
 
-**Key Features:**
-- Pokémon data fetching and display
-- Search and filter functionality
-- Responsive design
-- TypeScript for type safety
+**Key Features:**  
+- Fetches and displays real-time Pokémon data  
+- Advanced search and filter functionality  
+- Responsive layout optimized for multiple devices  
+- TypeScript implementation for enhanced type safety  
 
 [![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161/pokedex)
 
 ---
 
-### 3. 🛒 Diesel Clone App
-A comprehensive e-commerce platform clone showcasing modern UI/UX and backend features.
+### 🛒 **Diesel Clone App**
+A complete e-commerce platform clone showcasing modern UI/UX and backend functionalities.  
 
-**Tech Stack:** React, Node.js, MongoDB, Express
+**Tech Stack:** React, Node.js, MongoDB, Express  
 
-**Key Features:**
-- Product catalog and management
-- Shopping cart functionality
-- User authentication
-- Order processing
-- Admin dashboard
+**Key Features:**  
+- Dynamic product catalog with detailed product management  
+- Shopping cart functionality with real-time updates  
+- User authentication and authorization  
+- Order processing and management system  
+- Dedicated admin dashboard for monitoring and control  
 
 [![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161/diesel-clone)
 
 ---
 
-### 4. 🌤️ Weather App
-A weather application providing real-time weather information.
+### 🌤️ **Weather App**
+A simple yet effective weather application that provides real-time weather information for any location.  
 
-**Tech Stack:** JavaScript, Weather APIs
+**Tech Stack:** JavaScript, Weather APIs  
 
-**Key Features:**
-- Real-time weather data
-- Location-based weather
-- Responsive design
-- Clean UI/UX
+**Key Features:**  
+- Displays accurate real-time weather data  
+- Location-based weather updates  
+- Fully responsive and clean UI design  
+- Intuitive and user-friendly interface  
 
 [![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161/weather-app)
 
 ---
 
-### 5. 🍽️ Restaurant Design
-A modern restaurant website with elegant design and functionality.
+### 🍽️ **Restaurant Design**
+A modern restaurant website featuring elegant design and interactive functionality.  
 
-**Tech Stack:** HTML, CSS, JavaScript
+**Tech Stack:** HTML, CSS, JavaScript  
 
-**Key Features:**
-- Modern responsive design
-- Menu display
-- Contact information
-- Booking system
+**Key Features:**  
+- Clean and responsive modern design  
+- Interactive menu and booking options  
+- Contact and location details for customers  
+- Smooth navigation with engaging visuals  
 
 [![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161/restaurant-design)
 
+---
+
 ## 🏆 Achievements
 
-- **Pull Shark** - GitHub Achievement for significant contributions
-- **6 Months Professional Experience** - Working on client projects
-- **27+ Repositories** - Active open-source contributions
-- **4 Stars** - Community recognition for projects
+- **Pull Shark** – GitHub Achievement for significant contributions  
+- **6 Months Professional Experience** – Delivered client-focused projects  
+- **27+ Repositories** – Active open-source contributions  
+- **4 Stars** – Community recognition for projects  
+
+---
 
 ## 🌐 Connect With Me
 
@@ -170,27 +181,35 @@ A modern restaurant website with elegant design and functionality.
   </a>
 </div>
 
+---
+
 ## 📈 Current Status
 
-- 🔭 **Currently Working On:** Full-stack web applications 
-- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud Technologies
-- 👯 **Looking For:** Full-time opportunities in software development
-- 💬 **Ask Me About:** React, Node.js, JavaScript, Web Development
-- 📫 **How to Reach Me:** rishavjaiswal864@gmail.com
+- 🔭 **Currently Working On:** Full-stack web applications  
+- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud Technologies  
+- 👯 **Looking For:** Full-time opportunities in software development  
+- 💬 **Ask Me About:** React, Node.js, JavaScript, Web Development  
+- 📫 **How to Reach Me:** [rishavjaiswal864@gmail.com](mailto:rishavjaiswal864@gmail.com)  
+
+---
 
 ## 🎯 Goals
 
-- [ ] Contribute to more open-source projects
-- [ ] Master advanced React patterns and state management
-- [ ] Learn cloud technologies (AWS/Azure)
-- [ ] Build scalable microservices
-- [ ] Mentor junior developers
+- [ ] Contribute to more open-source projects  
+- [ ] Master advanced React patterns and state management  
+- [ ] Learn cloud technologies (AWS/Azure)  
+- [ ] Build scalable microservices  
+- [ ] Mentor junior developers  
+
+---
 
 ## 📊 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav161&theme=radical&hide_border=true" alt="Activity Graph">
 </div>
+
+---
 
 ## 🏠 Location
 
@@ -201,5 +220,5 @@ A modern restaurant website with elegant design and functionality.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rishav161&style=flat-square&color=blue" alt="Profile Views">
   
-  **Thanks for visiting my profile! Feel free to connect and collaborate! 🚀**
+  💬 *Thanks for visiting my profile! Feel free to connect and collaborate!* 🚀
 </div>
