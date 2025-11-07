@@ -155,8 +155,8 @@ A modern restaurant website featuring elegant design and interactive functionali
 ## 🏆 Achievements
 
 - **Pull Shark** – GitHub Achievement for significant contributions  
-- **6 Months Professional Experience** – Delivered client-focused projects  
-- **27+ Repositories** – Active open-source contributions  
+- **8 Months Professional Experience** – Delivered client-focused projects  
+- **40+ Repositories** – Active open-source contributions  
 - **4 Stars** – Community recognition for projects  
 
 ---
@@ -186,7 +186,7 @@ A modern restaurant website featuring elegant design and interactive functionali
 ## 📈 Current Status
 
 - 🔭 **Currently Working On:** Full-stack web applications  
-- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud Technologies  
+- 🌱 **Learning:** Advanced React patterns, System Design, and Cloud Technologies, Docker
 - 👯 **Looking For:** Full-time opportunities in software development  
 - 💬 **Ask Me About:** React, Node.js, JavaScript, Web Development  
 - 📫 **How to Reach Me:** [rishavjaiswal864@gmail.com](mailto:rishavjaiswal864@gmail.com)  
@@ -199,7 +199,7 @@ A modern restaurant website featuring elegant design and interactive functionali
 - [ ] Master advanced React patterns and state management  
 - [ ] Learn cloud technologies (AWS/Azure)  
 - [ ] Build scalable microservices  
-- [ ] Mentor junior developers  
+- [ ] Learn DevOps 
 
 ---
 
