@@ -74,7 +74,18 @@ I specialize in building modern web applications using cutting-edge technologies
 ---
 
 ## 🚀 Featured Projects
+### ⚡ **Real-Time Collaboration Dashboard**
+A modern full-stack collaboration platform with real-time messaging and synchronization capabilities.
 
+**Tech Stack:** Next.js 16, TypeScript, Prisma, Socket.IO, Clerk, Zustand, Tailwind CSS
+
+**Key Features:**
+- Real-time one-to-one and group chat with typing indicators and online status
+- Live data synchronization across multiple connected clients
+- Secure authentication and authorization with Clerk
+- Admin-controlled group management with invite system
+- Dark/light theme support with smooth animations and modern UI
+[![View Project](https://img.shields.io/badge/View_Project-007396?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishav161/realtime-collab-dashboard)
 ### 🌍 **Tripease – Travel & Tourism Website**
 A full-stack MERN travel and tourism website with integrated payment and booking systems.  
 
