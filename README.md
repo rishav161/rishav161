@@ -1,12 +1,14 @@
-# 👋 Hi there, I'm Rishav Jaiswal
-
 <div align="center">
   <img src="https://i.ibb.co/HpgT5pjY/github-header-image.png" alt="GitHub Header" width="100%" />
 </div>
 
-<h3 align="center">⚡ Fullstack Developer | React & Node.js Engineer | Problem Solver ⚡</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rishav!+%F0%9F%91%8B;Fullstack+Developer;React+%26+Node.js+Engineer;Problem+Solver" alt="Typing SVG" />
+</h1>
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rishav161.rishav161&left_color=gray&right_color=0A66C2" alt="Visitors" />
+  <br><br>
   <a href="https://rishav-xi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rishav-jaiswal-55141824a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rishavjaiswal.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -15,95 +17,91 @@
 
 ---
 
-## 🚀 Quick Intro
-
-I'm a passionate **Fullstack Developer** with 8+ months of professional experience delivering production-ready web applications. I specialize in building modern, scalable monorepos and distributed client-server systems using cutting-edge technologies.
-
-- 🔭 **Currently building:** [KhaoPio](https://khao-pio.vercel.app/login) - A Modern Restaurant POS System
-- 💡 **Core focus:** Full-Stack Architecture, Database Tuning, WebSockets, and UI/UX Performance
-- 🤝 **Open to:** Full-time roles, freelance opportunities, and open-source collaboration
-- 💬 **Ask me about:** React, Next.js, Node.js, and PostgreSQL
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Frontend & Styling</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Backend, Databases & Tools</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-</details>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>I'm a passionate <b>Fullstack Developer</b> with 8+ months of professional experience delivering production-ready web applications. I specialize in building modern, scalable monorepos and distributed client-server systems.</p>
+      <ul>
+        <li>🔭 <b>Currently building:</b> <a href="https://khao-pio.vercel.app/login">KhaoPio (Restaurant POS)</a></li>
+        <li>💡 <b>Core focus:</b> Full-Stack Architecture, WebSockets, DB Tuning</li>
+        <li>🤝 <b>Open to:</b> Full-time roles & Open-source collaboration</li>
+        <li>💬 <b>Ask me about:</b> React, Next.js, Node.js, and PostgreSQL</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h2>🛠️ Tech Stack</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,html,css<br>nodejs,express,prisma,postgres,mongodb,redis,docker,git" alt="Skill Icons" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <img src="https://github-profile-trophy.vercel.app/?username=rishav161&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rishav161&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav161&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav161&theme=radical&hide_border=true" alt="Contribution Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishav161&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
+<br>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=rishav161&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav161&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav161&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 💻 Featured Projects
 
-### 🍔 [KhaoPio – Restaurant POS System](https://github.com/rishav161/KhaoPio) *(Flagship)*
-> A modern, high-performance Point of Sale (POS) system designed for heavy restaurant workflows.
-- **Tech Stack:** Next.js 16, React 19, Tailwind CSS v4, Zustand, Node.js, Express, Prisma, PostgreSQL.
-- **Highlights:** Intuitive ordering cart, staff permission-based sidebars, live kitchen display, JWT security, and order/KOT workflows.
-- 🔗 [Live Demo](https://khao-pio.vercel.app/login) | [Source Code](https://github.com/rishav161/KhaoPio)
-
-### ⚡ [Real-Time Collaboration Dashboard](https://github.com/rishav161/realtime-collab-dashboard)
-> A full-stack collaboration platform enabling real-time communications and team synchronization.
-- **Tech Stack:** Next.js, Prisma, PostgreSQL, Socket.IO, Clerk, Zustand.
-- **Highlights:** 1-to-1/group chats, active typing indicators, live online status sync, and MFA authentication.
-- 🔗 [Source Code](https://github.com/rishav161/realtime-collab-dashboard)
-
-### 🌍 [Tripease – Travel & Booking Portal](https://github.com/sudipt-31/Tripease)
-> A production-ready travel application handling transactions and itinerary setups.
-- **Highlights:** Secure payment checkout pipelines, dynamic booking management, and location explorer APIs.
-- 🔗 [Source Code](https://github.com/sudipt-31/Tripease)
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍔 <a href="https://github.com/rishav161/KhaoPio">KhaoPio – POS System</a> 🌟</h3>
+      <p><i>Flagship monorepo designed for heavy restaurant workflows.</i></p>
+      <p><b>Tech:</b> Next.js 16, React 19, Zustand, Node.js, Prisma, PostgreSQL</p>
+      <p><b>Features:</b> Live kitchen display, staff permissions, JWT security, KOT workflows.</p>
+      <a href="https://khao-pio.vercel.app/login">🔗 Live Demo</a> | <a href="https://github.com/rishav161/KhaoPio">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/rishav161/realtime-collab-dashboard">Collab Dashboard</a></h3>
+      <p><i>Real-time collaboration platform and team synchronization.</i></p>
+      <p><b>Tech:</b> Next.js, PostgreSQL, Socket.IO, Clerk, Zustand</p>
+      <p><b>Features:</b> 1-to-1/group chats, typing indicators, live online status, MFA auth.</p>
+      <a href="https://github.com/rishav161/realtime-collab-dashboard">📂 Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br>
+      <h3>🌍 <a href="https://github.com/sudipt-31/Tripease">Tripease – Booking Portal</a></h3>
+      <p><i>Travel application handling transactions and itinerary setups.</i></p>
+      <p><b>Tech:</b> React, Node.js, Express, PostgreSQL</p>
+      <p><b>Features:</b> Secure payment pipelines, dynamic booking, explorer APIs.</p>
+      <a href="https://github.com/sudipt-31/Tripease">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <br>
+      <h3>🎮 <a href="https://github.com/rishav161/pokedex">Pokédex Application</a></h3>
+      <p><i>Web app displaying live Pokémon statistics with quick search.</i></p>
+      <p><b>Tech:</b> React, Next.js, TypeScript, PokeAPI</p>
+      <p><b>Features:</b> Multi-device catalog, fast client-side filters, combat stat visualizers.</p>
+      <a href="https://github.com/rishav161/pokedex">📂 Code</a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 <div align="center">
